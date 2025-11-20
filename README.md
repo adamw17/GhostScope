@@ -1,7 +1,7 @@
 # GhostScope
-An hobby OS watchtower to learn kernel dev and reverse engineer
+An hobby OS watchtower to learn kernel dev and reverse engineering
 
-*A personal journey into kernel development, reverse engineering, malware analysis, and system introspection — built in small daily steps.*
+*A personal journey into kernel development, reverse engineering, malware analysis, and system introspection — built in small steps.*
 
 GhostScope is a growing toolkit and learning laboratory for:
 
@@ -15,11 +15,11 @@ The goal is to build a lightweight system observability and security analysis fr
 
 ---
 
-# 🎯 Why This Exists
+# Why This Exists
 
 Instead of studying from books, this project is built through:
 
-- Tiny daily experiments  
+- Tiny experiments  
 - Real code  
 - Real tools  
 - Real debugging  
@@ -28,11 +28,11 @@ Instead of studying from books, this project is built through:
 This is both:
 
 - A portfolio of systems/security engineering, and  
-- A structured self-learning journal for staying motivated over time.
+- A structured self-learning journal
 
 ---
 
-# 🧠 High-Level Vision
+# High-Level Vision
 
 GhostScope will eventually (in small steps) allow:
 
