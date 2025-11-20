@@ -15,7 +15,7 @@ The goal is to build a lightweight system observability and security analysis fr
 
 ---
 
-# Why This Exists
+# Why this exists
 
 Instead of studying from books, this project is built through:
 
@@ -32,7 +32,7 @@ This is both:
 
 ---
 
-# High-Level Vision
+# High-Level vision
 
 GhostScope will eventually (in small steps) allow:
 
@@ -45,3 +45,5 @@ GhostScope will eventually (in small steps) allow:
 Think of it as:
 
 > A tiny personal EDR + RE toolkit built from scratch.
+
+[Devlog](https://dev.to/adam_weber_6dc0d5bd752326/)
